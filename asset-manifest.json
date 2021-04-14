@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abhishek-koushal/static/css/main.a9432ac3.chunk.css",
+    "main.css": "/abhishek-koushal/static/css/main.a27f352f.chunk.css",
     "main.js": "/abhishek-koushal/static/js/main.abad58d3.chunk.js",
     "main.js.map": "/abhishek-koushal/static/js/main.abad58d3.chunk.js.map",
     "runtime-main.js": "/abhishek-koushal/static/js/runtime-main.30f76703.js",
@@ -8,7 +8,7 @@
     "static/js/2.a1adc9c5.chunk.js": "/abhishek-koushal/static/js/2.a1adc9c5.chunk.js",
     "static/js/2.a1adc9c5.chunk.js.map": "/abhishek-koushal/static/js/2.a1adc9c5.chunk.js.map",
     "index.html": "/abhishek-koushal/index.html",
-    "static/css/main.a9432ac3.chunk.css.map": "/abhishek-koushal/static/css/main.a9432ac3.chunk.css.map",
+    "static/css/main.a27f352f.chunk.css.map": "/abhishek-koushal/static/css/main.a27f352f.chunk.css.map",
     "static/js/2.a1adc9c5.chunk.js.LICENSE.txt": "/abhishek-koushal/static/js/2.a1adc9c5.chunk.js.LICENSE.txt",
     "static/media/Abhishek_koushal.bf09b7c9.jpg": "/abhishek-koushal/static/media/Abhishek_koushal.bf09b7c9.jpg",
     "static/media/Abhishekkoushal-Resume.01efbc23.pdf": "/abhishek-koushal/static/media/Abhishekkoushal-Resume.01efbc23.pdf",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.30f76703.js",
     "static/js/2.a1adc9c5.chunk.js",
-    "static/css/main.a9432ac3.chunk.css",
+    "static/css/main.a27f352f.chunk.css",
     "static/js/main.abad58d3.chunk.js"
   ]
 }
